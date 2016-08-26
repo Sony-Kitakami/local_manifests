@@ -6,11 +6,11 @@
  <project name="Sony-Kitakami/android_device_sony_suzuran"      path="device/sony/suzuran"        remote="github" revision="cm-13.0" />
  <project name="Sony-Kitakami/android_device_sony_sepolicy"     path="device/sony/sepolicy"       remote="github" revision="cm-13.0" />
  <project name="Sony-Kitakami/android_kernel_sony"              path="kernel/sony/"               remote="github" revision="cm-13.0" />
+ <project name="Sony-Kitakami/android_hardware_sony_camera"     path="hardware/sony/camera"       remote="github" revision="cm-13.0" />
 
  <!-- Sony Xperia Dev -->
  <project name="sonyxperiadev/device-sony-common"               path="device/sony/common"         remote="github" revision="master" />
  <project name="sonyxperiadev/device-sony-common-headers"       path="device/sony/common-headers" remote="github" revision="aosp/LA.BR.1.3.3_rb2.14" />
- <project name="sonyxperiadev/camera"                           path="hardware/sony/camera"       remote="github" revision="aosp/LA.BR.1.3.3_rb2.14" />
 
  <!-- Sony CM -->
   <project name="SonyCM/android_hardware_sony_init"             path="hardware/sony/init"         remote="github" revision="cm-13.0" />
